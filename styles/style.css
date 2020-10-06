@@ -9,3 +9,22 @@ body{
   font-family: 'Quicksand', sans-serif;
   font-size: 2em;
 }
+
+div{
+  text-align: center;
+}
+
+button{
+  display: inline-block;
+  background-color: navy;
+  color: #fff;
+  padding: 7px;
+  text-align: center;
+  border: none;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 0.65em;
+}
+
+button:hover{
+  cursor: pointer;
+}
